@@ -13,6 +13,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ## Acceptance Criteria
-(./Assets/ScreenShot.png)
+![my page](./Assets/ScreenShot.png)
 
 
