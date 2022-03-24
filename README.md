@@ -13,5 +13,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ## Acceptance Criteria
+![The blog layout has larger-sized headers and spacing in between the lines of text.](./Assets/ScreenShot.png)
 
-(./Assets/ScreenShot.png)
+
